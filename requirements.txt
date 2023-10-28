@@ -1,0 +1,6 @@
+opencv-python==4.5.5.64
+mediapipe==0.10.0
+python-osc==1.8.1
+numpy==1.22.3
+Pillow==9.5.0
+fpdf2==2.7.6
