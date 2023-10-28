@@ -1,6 +1,8 @@
 # AR Book
 Tools for a mixed reality presentation system
 
+![Demonstration](./assets/AR-Book.gif)
+
 This repository provides a combined solution for detecting hands using MediaPipe and ArUco markers in live video streams. It includes:
 
 1. A script to detect hands and ArUco markers and send their coordinates over OSC (Open Sound Control).
@@ -18,7 +20,7 @@ This repository provides a combined solution for detecting hands using MediaPipe
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/xxxxx.git
+git clone https://github.com/jts3k/AR-Book
 cd AR-Book
 ```
 
